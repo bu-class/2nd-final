@@ -1,0 +1,20 @@
+1-8 10mark
+slide 10 pb 1237
+11 work tenasistor
+connection 3 dyagram common base
+alpha gama  amplefication
+transstor math 2 ta 8.7,8.12 math 
+BJT
+12
+Load line and point and first math
+
+13
+CE Transistor
+8.32
+
+14
+কি কেন biasisin
+15 
+operation Amplefile 
+inverting apmlefore
+summing Amplefilep
